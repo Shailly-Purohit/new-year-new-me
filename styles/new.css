@@ -1,0 +1,27 @@
+.top-banner {
+    display: flex;
+}
+
+.banner-text {
+    margin-top: 10%;
+    text-align: right;
+    height: 100%;
+    margin-right: 400px;
+}
+
+.contact-us {
+    background-color: cornflowerblue;
+    color: azure;
+    font-size: 20px;
+    font-weight: 500;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+.banner-img {
+    width: 50%;
+    margin-top: 5%;
+    margin-right: 50px;
+    margin-inline-end: 30px;
+
+}
