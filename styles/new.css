@@ -25,3 +25,23 @@
     margin-inline-end: 30px;
 
 }
+
+.failures {
+    display: flex;
+}
+
+.my-failures {
+    margin-top: 15%;
+}
+
+.part3-heading {
+    text-align: center;
+}
+
+.my-plans-container {
+    display: flex;
+    gap: 30px;
+    padding-left: 300px;
+    text-align: center;
+    align-content: center;
+}
