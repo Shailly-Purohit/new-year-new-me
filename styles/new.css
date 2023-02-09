@@ -40,8 +40,63 @@
 
 .my-plans-container {
     display: flex;
-    gap: 30px;
+    gap: 80px;
     padding-left: 300px;
     text-align: center;
     align-content: center;
+}
+
+.part-4 {
+    margin-left: 40%;
+    padding-top: 30px;
+    padding-right: 30px;
+    display: inline-block;
+    background-image: url(/images/watch.png);
+    background-size: cover;
+    background-position: 50%;
+    color: rgba(238, 158, 8, 0.889);
+}
+
+.gradient {
+    padding-left: 30px;
+    text-align: left;
+    color: rgba(249, 154, 100, 0.986);
+    text-shadow: rgba(98, 34, 15, 0.74);
+
+}
+
+#call-now {
+    color: chocolate;
+    background-color: beige;
+    border-radius: 8px;
+    font-weight: 100px;
+    height: 40px;
+}
+
+.footer-text {
+    background-color: rgb(2, 2, 53);
+    color: azure;
+    padding-top: 30px;
+    padding-left: 50px;
+    display: flex;
+    gap: 300px;
+    margin-top: 60px;
+}
+
+#email {
+    background-color: rgba(2, 2, 54, 0.389);
+    color: azure;
+}
+
+.Subscribe {
+    color: rgb(232, 109, 8);
+    background-color: azure;
+    border-radius: 8px;
+    height: 40px;
+    font-weight: 100px;
+}
+
+.bonus {
+    margin-left: 30%;
+    margin-bottom: 10%;
 }
